@@ -1029,7 +1029,7 @@ class spam:
 try:
  os.system("clear")
  time.sleep(2)
- print ('{dark0}[{dark}•{dark0}] {mr_dark}Subs MR_DARK!')
+ print (f'{dark0}[{dark}•{dark0}] {mr_dark}Subs MR_DARK!')
  time.sleep(2)
  os.system('xdg-open https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A')
  time.sleep(2)
