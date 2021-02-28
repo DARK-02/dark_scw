@@ -1028,6 +1028,12 @@ class spam:
       print (f"{ken}[{kun}•{ken}] {ken}Spam {kan}({anj}CALL{kan}) {ken}VaderShop{kan} OK")
 try:
  os.system("clear")
+ time.sleep(2)
+ print ('{dark0}[{dark}•{dark0}] {mr_dark}Subs MR_DARK!')
+ time.sleep(2)
+ os.system('xdg-open https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A')
+ time.sleep(2)
+ os.system('clear')
  bnr()
  menu=["Mulai","Subscribe MR_DARK","keluar"]
  print (f"     By: {tot}MR_DARK{sop}        ")
