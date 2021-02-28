@@ -1,7 +1,7 @@
 from time import sleep
 import threading, time, requests, sys, os, re, random
 
-from warn.warn import *
+
 def dark_format_auto(text):
         for x in text + '\n':
                 sys.stdout.write(x)
